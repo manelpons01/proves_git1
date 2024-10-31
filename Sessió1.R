@@ -10,6 +10,6 @@ use_git()
 # Selecció 2: Yup
 
 
-print("Hello world")
+print("Hello World")
 
 
