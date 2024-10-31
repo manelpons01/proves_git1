@@ -13,3 +13,7 @@ use_git()
 print("Hello World")
 
 
+## això em permet pujar arxiu a GitHub
+usethis::use_github()
+
+print ("Prova push")
